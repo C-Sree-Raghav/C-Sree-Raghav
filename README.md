@@ -111,7 +111,7 @@ Accounting teams at small businesses manually re-enter spreadsheet data into Tal
 
 Parses CSV files and outputs structured XML using a 2D linked list. Written in C to work closer to the metal and understand data structure tradeoffs without abstractions.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/C-Sree-Raghav)
+[![View Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/C-Sree-Raghav/tally-converter-c)
 
 </td>
 <td width="50%" valign="top">
