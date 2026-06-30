@@ -6,17 +6,28 @@
 
 <br/>
 
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td valign="middle" align="left" width="55%">
+
 <h1><b>Sree Raghav</b></h1>
 
-<p><em>Turning spreadsheets into production software — one workflow at a time.</em></p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+Development+%C2%B7+Automation+%C2%B7+DSA;Building+software+that+simplifies+business+workflows." alt="Sree Raghav" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=94A3B8&center=false&vCenter=true&width=380&lines=Software+Engineer+%C2%B7+B.Tech+CS;Shiv+Nadar+University+%C2%B7+India;Backend+%C2%B7+Automation+%C2%B7+DSA" alt="Sree Raghav" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/sree-raghav-a5188237a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://codolio.com/profile/shrevag"><img src="https://img.shields.io/badge/Codolio-7C3AED?style=flat-square&logoColor=white" /></a>
+
+</td>
+<td valign="middle" align="right" width="45%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=C-Sree-Raghav&bg_color=0d1117&color=7C3AED&line=7C3AED&point=e2e8f0&hide_border=true&area=true&area_color=1e1b4b&hide_title=true&height=180" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -135,6 +146,8 @@ A Java reimplementation of the Python converter. Mainly a learning exercise in O
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Libraries & Data Formats**
 
@@ -150,11 +163,13 @@ A Java reimplementation of the Python converter. Mainly a learning exercise in O
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=flat-square&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Specialized Technologies**
 
 ![Tally ERP](https://img.shields.io/badge/Tally_ERP-0057A8?style=flat-square&logoColor=white)
+![Inno Setup](https://img.shields.io/badge/Inno_Setup-264de4?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -199,10 +214,6 @@ A Java reimplementation of the Python converter. Mainly a learning exercise in O
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=C-Sree-Raghav&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=C-Sree-Raghav&bg_color=0d1117&color=94a3b8&line=7C3AED&point=e2e8f0&hide_border=true&area=true&area_color=1e1b4b" width="88%" />
 
 </div>
 
