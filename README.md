@@ -8,7 +8,9 @@
 
 <h1><b>Sree Raghav</b></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+Development+%C2%B7+Automation+%C2%B7+DSA;Building+software+that+solves+real+business+problems." alt="Sree Raghav" />
+<p><em>Turning spreadsheets into production software — one workflow at a time.</em></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+Development+%C2%B7+Automation+%C2%B7+DSA;Building+software+that+simplifies+business+workflows." alt="Sree Raghav" />
 
 <br/><br/>
 
@@ -28,9 +30,7 @@
 
 <br/>
 
-**Computer Science student at Shiv Nadar University**, interning at Simplain Software Solutions, and focused on writing software that replaces real manual workflows — not exercises for a portfolio.
-
-My work spans backend tooling, data pipeline automation, and algorithmic problem-solving. I prefer shipping something that runs in production over another tutorial project.
+CS student at Shiv Nadar University, currently interning at Simplain Software Solutions. I enjoy building tools that automate tedious business workflows — the kind of software that actually gets used. Outside of that, I practice DSA and work through competitive programming problems to keep problem-solving sharp.
 
 &nbsp;&nbsp; 📍 India &nbsp;&nbsp;·&nbsp;&nbsp; 🎯 Software Engineering &nbsp;&nbsp;·&nbsp;&nbsp; ⚡ Open to remote opportunities from August 2025
 
@@ -44,7 +44,7 @@ My work spans backend tooling, data pipeline automation, and algorithmic problem
 
 <br/>
 
-### Featured Project
+### 🚀 Building Right Now
 
 <br/>
 
@@ -54,15 +54,15 @@ My work spans backend tooling, data pipeline automation, and algorithmic problem
 
 **Tally ERP · Excel & Google Sheets → XML Converter**
 
-A production tool used during my internship that automates the conversion of spreadsheet accounting data into Tally ERP-compatible XML — eliminating a fully manual import process.
+Accounting teams at small businesses manually re-enter spreadsheet data into Tally ERP — a slow, error-prone process. This tool automates it entirely.
 
-**What it does**
-- Parses ledger and voucher records from Excel and Google Sheets
-- Generates well-formed Tally XML envelopes for ledger create / alter / delete and voucher operations
-- Supports configurable column layouts via YAML, making it adaptable without code changes
-- Produces formatted reports and handles multi-action workflows in a single run
+<!-- Project Screenshot — replace src with actual screenshot when ready -->
+<!-- <img src="your-screenshot-url-here" alt="Project Screenshot" width="100%" /> -->
 
-**Why it matters** &nbsp;— Accounting teams at small businesses spend hours on manual Tally data entry. This tool reduces that to a single command.
+- Reads ledger and voucher data from Excel files and Google Sheets
+- Generates Tally-compatible XML for create, alter, and delete operations
+- Column layouts are driven by YAML config — no code changes needed to adapt
+- Handles multi-action workflows and outputs a formatted run report
 
 <br/>
 
@@ -70,9 +70,9 @@ A production tool used during my internship that automates the conversion of spr
 
 <br/>
 
-> 🔒 &nbsp; *Production codebase — not publicly available. A parallel open-source Java implementation is in progress.*
+> 🔒 &nbsp; *Production codebase — not public. A Java port is in progress.*
 
-&nbsp;&nbsp; [![Java Version](https://img.shields.io/badge/Java_Port-In_Progress-7C3AED?style=flat-square)](https://github.com/C-Sree-Raghav)
+&nbsp;&nbsp; [![Java Port](https://img.shields.io/badge/Java_Port-In_Progress-7C3AED?style=flat-square)](https://github.com/C-Sree-Raghav)
 
 </td>
 </tr>
@@ -98,14 +98,18 @@ A production tool used during my internship that automates the conversion of spr
 
 **CSV → XML Converter** &nbsp; `C`
 
-Converts structured CSV files into XML output using a 2D linked list — written in C to demonstrate systems-level thinking and data structure application from first principles.
+Parses CSV files and outputs structured XML using a 2D linked list. Written in C to work closer to the metal and understand data structure tradeoffs without abstractions.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/C-Sree-Raghav)
 
 </td>
 <td width="50%" valign="top">
 
 **Tally Converter — Java** &nbsp; `Java`
 
-An interface-driven reimplementation of the Python converter. Built to deepen OOP architecture skills — dependency injection, loose coupling, and clean separation of concerns in a real-world context.
+A Java reimplementation of the Python converter. Mainly a learning exercise in OOP design — interfaces, dependency injection, and clean architecture applied to a real problem.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/C-Sree-Raghav)
 
 </td>
 </tr>
@@ -151,23 +155,22 @@ An interface-driven reimplementation of the Python converter. Built to deepen OO
 **Specialized Technologies**
 
 ![Tally ERP](https://img.shields.io/badge/Tally_ERP-0057A8?style=flat-square&logoColor=white)
-![Inno Setup](https://img.shields.io/badge/Inno_Setup-264de4?style=flat-square&logoColor=white)
 
 <br/>
 
 ---
 
 <!-- ─────────────────────────────────────────────────────────────────────────── -->
-<!--  CURRENTLY                                                                 -->
+<!--  CURRENT FOCUS                                                             -->
 <!-- ─────────────────────────────────────────────────────────────────────────── -->
 
 <br/>
 
-### Currently
+### Current Focus
 
 <br/>
 
-- [x] &nbsp; Python production tooling — pipelines, YAML config, Google APIs
+- [x] &nbsp; Python automation tooling — pipelines, YAML config, Google APIs
 - [x] &nbsp; Java OOP — interfaces, dependency injection, clean architecture
 - [ ] &nbsp; Advanced DSA — graphs, DP, competitive programming (Project Euler, LeetCode)
 - [ ] &nbsp; System design fundamentals
@@ -213,9 +216,9 @@ An interface-driven reimplementation of the Python converter. Built to deepen OO
 
 <br/>
 
-### Let's Connect
+### Get in Touch
 
-If you're building something interesting or know of a remote software engineering role, I'd like to hear about it.
+Open to remote internships and software engineering roles from August 2025. Feel free to reach out.
 
 <br/>
 
