@@ -6,13 +6,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1800&pause=400&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=480&height=110&lines=%24+initializing+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%24+loading+sree_raghav.config+%E2%9C%93;%24+status%3A+open+to+remote+opportunities" alt="boot sequence" />
+<h2>Sree Raghav</h2>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=0&pause=0&color=E2E8F0&center=true&vCenter=true&repeat=false&width=480&lines=Sree+Raghav" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=2000&color=94A3B8&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+%C2%B7+Automation+%C2%B7+Data+Structures+%26+Algorithms;Building+software+that+solves+real+business+problems." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+Development+%C2%B7+Automation+%C2%B7+DSA;Building+software+that+solves+real+business+problems." alt="Sree Raghav" />
 
 <br/><br/>
 
