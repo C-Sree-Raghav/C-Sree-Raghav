@@ -6,21 +6,15 @@
 
 <br/>
 
-<h2>Sree Raghav</h2>
+<h1><b>Sree Raghav</b></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+Development+%C2%B7+Automation+%C2%B7+DSA;Building+software+that+solves+real+business+problems." alt="Sree Raghav" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+B.Tech+CS+%C2%B7+Shiv+Nadar+University;Backend+Development+%C2%B7+Automation+%C2%B7+DSA;Building+software+that+solves+real+business+problems." alt="Sree Raghav" />
 
 <br/><br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/sree-raghav-a5188237a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:cs481@snu.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/C-Sree-Raghav"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://codolio.com/profile/shrevag"><img src="https://img.shields.io/badge/Codolio-7C3AED?style=flat-square&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/in/sree-raghav-a5188237a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://codolio.com/profile/shrevag"><img src="https://img.shields.io/badge/Codolio-7C3AED?style=flat-square&logoColor=white" /></a>
 
 <br/>
 
@@ -106,16 +100,12 @@ A production tool used during my internship that automates the conversion of spr
 
 Converts structured CSV files into XML output using a 2D linked list — written in C to demonstrate systems-level thinking and data structure application from first principles.
 
-[![View](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/C-Sree-Raghav)
-
 </td>
 <td width="50%" valign="top">
 
 **Tally Converter — Java** &nbsp; `Java`
 
 An interface-driven reimplementation of the Python converter. Built to deepen OOP architecture skills — dependency injection, loose coupling, and clean separation of concerns in a real-world context.
-
-[![View](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/C-Sree-Raghav)
 
 </td>
 </tr>
